@@ -33,7 +33,7 @@ A Farnsworth fusor is an inertial electrostatic confinement device: a grid held 
 I logged much of the process on 3 short video, and edited them together now.
 
 <!-- Replace VIDEO_ID with your YouTube video ID, or delete this block and upload the files elsewhere. -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Farnsworth fusor build" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/gF_BS9d2fPs" title="Farnsworth fusor build" frameborder="0" allowfullscreen></iframe>
 
 ## Where my head's at now
 
