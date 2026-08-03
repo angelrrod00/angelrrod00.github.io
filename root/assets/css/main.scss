@@ -1,0 +1,26 @@
+---
+# Front matter (even empty) is required so Jekyll processes this file.
+---
+
+@charset "utf-8";
+
+// 1. Skin first - sets the base palette.
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+// 2. Your overrides go HERE, between the skin and the main import.
+//    Variables must be declared before the theme uses them.
+$link-color: #0b6b5e; // deep teal - reads as instrument panel, not corporate blue
+$link-color-hover: mix(#000, $link-color, 20%);
+$link-color-visited: mix(#fff, $link-color, 25%);
+
+// 3. Theme last.
+@import "minimal-mistakes";
+
+// 4. Small, deliberate touches. Delete freely.
+.page__title {
+  letter-spacing: -0.02em;
+}
+
+.archive__item-title {
+  margin-top: 0.75em;
+}

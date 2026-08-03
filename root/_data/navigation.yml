@@ -1,9 +1,14 @@
+# Top navigation bar. Order here is the order on the site.
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
-    url: /about/
+    url: /
+  - title: "Music"
+    url: /music/
+  - title: "Science"
+    url: /science/
+  - title: "Engineering"
+    url: /engineering/
+  - title: "Entrepreneurship"
+    url: /entrepreneurship/
+  - title: "All Posts"
+    url: /posts/
