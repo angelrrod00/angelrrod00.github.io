@@ -9,7 +9,7 @@ author_profile: true
 
 Welcome to my HomePage!
 The purpose of this site will be to act as a portfolio and introduction to my work, passion, and interest. 
-This site is divided into Efforts, each **Effort** containing **projects**, each project formatted in a blogpost style to give: **background info/ inspiration**, **process detailings**, and **results**.
+This site is divided into **Efforts**, each Effort containing **projects**, each project formatted in a blogpost style: **background info/ inspiration**, **process detailings**, and **results**.
 I will round up each post with a little blurb about my current thoughts.
 
 
