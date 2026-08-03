@@ -24,7 +24,7 @@ I will round up each post with a little blurb about my current thoughts.
 
 A few things I want to build here as the writing accumulates:
 
-- **Threads.** Coalescing progress within an effort into a continuous line, so you can read a project in motion rather than its still frame.
-- **Real introductions per effort**, these *Effort* with their own thread of arguement, not just a bucket of posts.
+- **Threads.** Updating the projects with more detailed stories, updates, and connections, coalescing progress within an project into a continuous line of history. The goal is for you to read a project in motion rather than its still frame.
+- **Real introductions per effort.** Update each Effort with their own origin, a more coheasive thread of arguement between posts, not just a bucket of posts.
 - **Links out** to my other blogs and artistic pursuits from the top layer.
-- **Resolving the merges** — reorganizing so that the places where these changes cause overlap are addressed and explored.
+- **Resolving the merges** — reorganizing so that the places where these changes cause overlap are addressed and explored for more threads, efforts, or innovation.
