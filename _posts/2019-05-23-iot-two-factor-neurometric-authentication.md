@@ -29,7 +29,7 @@ IoT TFNA itself is simple to state:
 
 - We can identify, classify, and discriminate a brain signal read through EEG as one **motor imagery** out of a set — a user imagining rotating their hand at the wrist versus rotating their foot at the joint.
 - We can also authenticate a user by having them think a **thought password**, differentiating their unique "mind-print" (mind finger print) from others.
-- Lets can we build a system on that conjuction!
+- Lets build a system on that conjuction!
 
 IoT TFNA uses a **single thought command** to send a secure instruction to an IoT device *inside the same packet used for authentication*. A randomized unique token adds an extra layer of security between source and endpoint.
 
